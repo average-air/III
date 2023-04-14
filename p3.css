@@ -1,0 +1,42 @@
+.a2{
+    width: 1000px;
+    height: auto;
+margin-left: 60px;
+}
+body{
+    background-color: rgb(69, 69, 69);
+    font-family: 'Righteous', cursive;
+
+}
+p{
+    color: rgb(255, 255, 255);
+}
+img{
+width: 1150px;
+height: auto;
+}
+main{
+    display: flex;
+}
+.sg2{
+    width: 600px;
+    height: auto;
+    margin-left: 200px;
+    margin-top: 5px;
+}
+header{
+    display: flex;
+    margin-left: 60px;
+}
+nav{
+    margin-left: 20px;
+    margin-top: 30px;
+}
+a{
+    text-decoration: none;
+    color: black;
+font-size: 150%;
+}
+a:hover{
+    color: aliceblue;
+}
